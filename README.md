@@ -7,5 +7,4 @@ Commands:
 +send
 +invite
 +dog
-
 badword filter
