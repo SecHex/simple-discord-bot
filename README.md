@@ -1,4 +1,4 @@
-⚙️ # Simple-Discord-Bot-Py-
+# Simple-Discord-Bot-Py-
 Commands:
 
 +Join
