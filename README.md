@@ -1,2 +1,11 @@
 # Simple-Discord-Bot-Py-
-ssssss
+Commands:
+
++Join
++Leave
++Clear
++send
++invite
++dog
+
+badword filter
