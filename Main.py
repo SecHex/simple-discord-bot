@@ -10,7 +10,7 @@ import datetime
 intents = discord.Intents.default()
 intents.members=True
 
-
+  
 #The Bot hates this words!
 badwords = ['nigger', 'allah', 'aladin', 'Bastard', 'Nigger', 'Gay', 'gay', 'Hurensohn', 'hurensohn', 'hs', 'HS',]
 
