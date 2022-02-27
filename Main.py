@@ -6,7 +6,7 @@ import asyncio
 import datetime
 
 
-
+ 
 intents = discord.Intents.default()
 intents.members=True
 
