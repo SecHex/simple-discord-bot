@@ -7,6 +7,7 @@ import datetime
 
 
  
+ 
 intents = discord.Intents.default()
 intents.members=True
 
